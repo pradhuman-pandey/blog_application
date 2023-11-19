@@ -1,0 +1,6 @@
+{
+    "autoimport.showNotifications": true,
+    "reactSnippets.settings.prettierEnabled": true,
+    "autoimport.filesToScan": "**/*.{js,jsx}",
+    
+}
